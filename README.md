@@ -6,7 +6,7 @@ Description of the app:
 
 In a imaginary view, there is a big square which consist of N*N little square.
 
-Every little square has a state opened or not opened,separately indicated by 1 and 0 in <Array gridOpenSet>
+Every little square has a state opened or not opened,separately indicated by 1 and 0 in ```Array gridOpenSet```
   
 Every little square has a root,this can changes when it uinon with other little square.
 
